@@ -1,4 +1,4 @@
-package guru.example.petclinic.domain.services;
+package guru.example.petclinic.services;
 
 import guru.example.petclinic.domain.Vet;
 
