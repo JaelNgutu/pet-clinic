@@ -1,4 +1,4 @@
-package com.example.petclinic.domain;
+package guru.example.petclinic.domain;
 
 public class Person {
 
